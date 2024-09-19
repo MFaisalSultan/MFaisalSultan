@@ -30,6 +30,10 @@ Here are some of the tools and technologies I work with regularly:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
 
 **Backend**:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
